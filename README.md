@@ -14,7 +14,7 @@ Data various such as trees, heaps, tries... as well as some useful algorithms su
 
 An extensive list with all the algorithms and data structures can be found here:
 
-- https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know
+- <a href="https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know" target="_blank">quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know</a>
 
 ## Problems:
 
@@ -28,14 +28,14 @@ The best sites for problems with solutions, sorted by personal preference, are:
 
 Ordered by topic:
 
-- Trees: https://www.quora.com/How-should-one-prepare-for-the-problems-on-trees-in-competitive-programming
-- Dynamic programing: https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming
+- Trees: <a href="https://www.quora.com/How-should-one-prepare-for-the-problems-on-trees-in-competitive-programming" target="_blank">quora.com/How-should-one-prepare-for-the-problems-on-trees-in-competitive-programming</a>
+- Dynamic programing: <a href="https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming" target="_blank">quora.com/What-are-the-best-ways-to-master-dynamic-programming</a>
 
 There are problems that come from *Cracking the Coding Inteview*
 
-- Solutions in Python https://github.com/careercup/CtCI-6th-Edition-Python
+- Solutions in Python <a href="https://github.com/careercup/CtCI-6th-Edition-Python" target="_blank">github.com/careercup/CtCI-6th-Edition-Python</a>
 
 ## Links
 
-- [spaniardstosv.org](http://spaniardstosv.org/coursework.html) - very basic outline of the main topics
-- [Google Drive](https://drive.google.com/drive/folders/196897BLVX35hHq3RCjB9n5u5zYxGUxd1?usp=sharing) with books and useful resources
+- <a href="http://spaniardstosv.org/coursework.html" target="_blank">spaniardstosv.org</a> - very basic outline of the main topics
+- <a href="https://drive.google.com/drive/folders/196897BLVX35hHq3RCjB9n5u5zYxGUxd1?usp=sharing" target="_blank">Google Drive</a> with books and useful resources
